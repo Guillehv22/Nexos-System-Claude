@@ -1,0 +1,11 @@
+# Artefactos compilados por cuenta — se regeneran al crear el design system
+_ds_bundle.js
+_ds_manifest.json
+_adherence.oxlintrc.json
+support.js
+.thumbnail
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/

@@ -1,0 +1,20 @@
+:root{
+--font-primary:'Aptos','Segoe UI',sans-serif;
+--font-display:'Aptos Display','Aptos','Segoe UI',sans-serif;
+--font-body:var(--font-primary);
+--font-heading:var(--font-display);
+--nexos-size-display:54pt;
+--nexos-size-h1:44pt;
+--nexos-size-h2:36pt;
+--nexos-size-h3:24pt;
+--nexos-size-body:14pt;
+--nexos-size-caption:10pt;
+--nexos-size-stat:60pt;
+--text-display:var(--nexos-size-display);
+--text-h1:var(--nexos-size-h1);
+--text-h2:var(--nexos-size-h2);
+--text-h3:var(--nexos-size-h3);
+--text-body-size:var(--nexos-size-body);
+--text-caption:var(--nexos-size-caption);
+--text-stat:var(--nexos-size-stat);
+}
